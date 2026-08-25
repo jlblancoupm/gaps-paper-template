@@ -1,0 +1,5 @@
+/* Shared branding hooks. Copy or import into paper-specific sites if useful. */
+:root {
+  --gaps-mark: url("https://jlblancoupm.github.io/assets/images/gaps-mark-v4122.png");
+  --gaps-primary-link: "https://www.gaps.ssr.upm.es/";
+}

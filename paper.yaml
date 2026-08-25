@@ -1,0 +1,47 @@
+paper:
+  slug: example-paper
+  venue: Conference 2027
+  location: City, Country
+  year: 2027
+  title: Replace with your paper title
+  tagline: Replace with one memorable sentence.
+  subtitle: A concise explanation of what changes in this work.
+  description: A publication companion site generated from the GAPS paper template.
+
+authors:
+  - name: First Author
+    url:
+  - name: Second Author
+    url:
+  - name: J.L. Blanco
+    url: https://jlblancoupm.github.io/
+
+links:
+  paper:
+  arxiv:
+  code: https://github.com/CHANGE_ME/example-paper
+  demo:
+
+branding:
+  primary: "#3973AC"
+  secondary: "#D9822B"
+  success: "#3D8B6D"
+  failure: "#A74343"
+
+features:
+  interactive: true
+  applications: true
+  limitations: true
+  paper_figures: true
+  citation: true
+
+institutions:
+  gaps:
+    label: GAPS
+    subtitle: Signal Processing Applications Group
+    url: https://www.gaps.ssr.upm.es/
+    mark: https://jlblancoupm.github.io/assets/images/gaps-mark-v4122.png
+  affiliations:
+    - IPTC-UPM
+    - ETSIT-UPM
+    - Universidad Politécnica de Madrid
